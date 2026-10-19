@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": "028",
+        "name": "M Hamza",
+        "password_hash": "76a00ed73f38046ec631b719ec46144b6c13f558c884eb5afb38fd5d8aa6e639",
+        "role": "Student",
+        "detail": "Software"
+    },
+    {
+        "user_id": "02",
+        "name": "M Hamza",
+        "password_hash": "76a00ed73f38046ec631b719ec46144b6c13f558c884eb5afb38fd5d8aa6e639",
+        "role": "Admin",
+        "detail": "Admin"
+    }
+]
